@@ -1,5 +1,7 @@
 # FirstNonRepeatingCharacter
-Solution for Codewars problem: First non-repeating character - 5 kyu 
+Solution for Codewars problem: First non-repeating character - 5 kyu
+
+A first solution(v1) and a refactored solution(v2) are included.
 
 Details:
 Write a function named first_non_repeating_letter that takes a string input, and returns the first character that is not repeated anywhere in the string.
